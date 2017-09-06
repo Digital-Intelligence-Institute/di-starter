@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'rails', '~> 5.1.3'
 gem 'bootstrap'
+gem 'simple_form'
+gem 'country_select'
 
 
 git_source(:github) do |repo_name|
